@@ -110,6 +110,18 @@
 									"subViews": [
 										{
 											"_type": "LabelView",
+											"_id": "AAAAAAFnw2fGBux2ccg=",
+											"_parent": {
+												"$ref": "AAAAAAFm+LMisd+5bMs="
+											},
+											"font": "Arial;13;0",
+											"left": 114,
+											"top": 101,
+											"width": 87.4326171875,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
 											"_id": "AAAAAAFm+LMist+/do4=",
 											"_parent": {
 												"$ref": "AAAAAAFm+LMisd+5bMs="
@@ -163,6 +175,18 @@
 										"$ref": "AAAAAAFm+LM9u9/DS48="
 									},
 									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFnw2fGBux8MCY=",
+											"_parent": {
+												"$ref": "AAAAAAFm+LM9u9/FvuU="
+											},
+											"font": "Arial;13;0",
+											"left": 114,
+											"top": 493,
+											"width": 87.4326171875,
+											"height": 13
+										},
 										{
 											"_type": "LabelView",
 											"_id": "AAAAAAFm+LM9vN/LHko=",
@@ -332,7 +356,7 @@
 												"$ref": "AAAAAAFm+LhgD+AfhDE="
 											},
 											"edgePosition": 1,
-											"text": "Order Accept/Reject"
+											"text": "Order Accept"
 										}
 									],
 									"font": "Arial;13;0",
@@ -483,7 +507,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFm+LMisd+3ZCM="
 									},
-									"name": "Order Accept/Reject",
+									"name": "Order Accept",
 									"source": {
 										"$ref": "AAAAAAFm+LMisd+3ZCM="
 									},
